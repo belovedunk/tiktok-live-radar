@@ -21,7 +21,6 @@ USERS = {
         "url": "https://www.tiktok.com/@figothanatawan",
     },
 }
-}
 
 STATE_FILE = "state.json"
 BARK_KEY = os.environ["BARK_KEY"]
