@@ -16,6 +16,11 @@ USERS = {
         "name": "Dunk",
         "url": "https://www.tiktok.com/@dunknatachai",
     },
+    "figothanatawan": {
+        "name": "Figo",
+        "url": "https://www.tiktok.com/@figothanatawan",
+    },
+}
 }
 
 STATE_FILE = "state.json"
