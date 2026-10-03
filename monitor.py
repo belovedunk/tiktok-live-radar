@@ -16,9 +16,9 @@ USERS = {
         "name": "Dunk",
         "url": "https://www.tiktok.com/@dunknatachai",
     },
-    "figothanatawan": {
-        "name": "Figo",
-        "url": "https://www.tiktok.com/@figothanatawan",
+    "gmmtvofficial": {
+        "name": "GMMTV",
+        "url": "https://www.tiktok.com/@gmmtvofficial",
     },
 }
 
